@@ -45,6 +45,7 @@
 input{
     padding:7px;
     margin:7px;
+    border: 1px inset #4c00b4;
     border-radius: 7px;
     font-size: medium;
 }
