@@ -1,0 +1,27 @@
+.show_cont{
+    height:15vh;
+    position:relative;
+    background-color: green;
+}
+.ur_contactbox{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.disp_cont{
+    height:85vh;
+    background-color: pink;
+}
+.prof_img{
+    width:50px;
+    height:50px;
+    border:5px inset white;
+    border-radius: 50%;
+    position: absolute;
+    top:50%;
+    left:10px;
+    transform: translateY(-50%);
+    background-image:url('C:\Users\DELL LATD\Desktop\ReactProject\Practice\my-app\public\pictureBox/muni.jpg');
+    background-size: cover;
+}
